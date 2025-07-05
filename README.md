@@ -5,6 +5,8 @@ A .NET Web API that wraps the Visual Crossing Weather API, providing authenticat
 
 ---
 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 ## 🚀 Features
 
 - 🔐 JWT Authentication and Role-based Authorization
