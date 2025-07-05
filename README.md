@@ -5,7 +5,7 @@ A .NET Web API that wraps the Visual Crossing Weather API, providing authenticat
 
 ---
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+<img width="861" height="624" alt="Image" src="https://github.com/user-attachments/assets/3f9ccc23-6f3f-4514-96d2-5516700fe43f" />
 
 ## 🚀 Features
 
